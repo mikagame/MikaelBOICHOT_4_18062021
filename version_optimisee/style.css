@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+footer p {
+    color: black;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
