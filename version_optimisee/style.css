@@ -7,10 +7,14 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-footer p {
+footer h4 {
     color: black;
     font-size: 13px;
+    display: flex;
+    justify-content: center;
 }
+
+
 
 footer a {
     height: 48px;
@@ -655,7 +659,6 @@ a[data-lightbox]:hover img {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6,
 p,
@@ -740,7 +743,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color:black!important;
 }
 
 .icons {
