@@ -9,6 +9,15 @@ body {
 
 footer p {
     color: black;
+    font-size: 13px;
+}
+
+footer a {
+    height: 48px;
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 a,
