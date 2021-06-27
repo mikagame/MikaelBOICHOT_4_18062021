@@ -7,14 +7,35 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/*modif*/
+
+header a {
+    color: black!important;
+}
+
+header a:hover {
+    color: coral!important;
+}
+
+/* page2 == contact*/
+
+.contact h1 {
+    color: black!important;
+}
+
+.contact h2 {
+    color: black!important;
+    font-size: 18px;
+}
+
+
+
 footer h4 {
     color: black;
     font-size: 13px;
     display: flex;
     justify-content: center;
 }
-
-
 
 footer a {
     height: 48px;
