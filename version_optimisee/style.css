@@ -16,10 +16,14 @@ body {
 .col-sm-6-modif {
   position: relative;
   left: 100px;
+  display: flex;
+  width: 33%;
+  
 }
 
 .col-sm-6-modif p{
     font-size: 15px;
+    
 
 }
 
