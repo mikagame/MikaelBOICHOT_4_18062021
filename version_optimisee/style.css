@@ -18,7 +18,10 @@ body {
   left: 100px;
   display: flex;
   width: 33%;
-  
+}
+
+.col-sm-6-modif a:hover {
+    color: coral!important;
 }
 
 .col-sm-6-modif p{
@@ -33,6 +36,30 @@ header a {
 
 header a:hover {
     color: coral!important;
+}
+
+.citation p {
+    font-size: 18px;
+}
+
+
+.projet h1 {
+    
+    background-color: rgba(0, 0, 0, .3);
+    padding: 10px;
+    border-radius: 15px;
+    max-width: 600px;
+}
+
+.projet {
+    display: flex;
+    justify-content: center;
+}
+.projet h3 {
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, .3);
+    padding: 10px;
+    border-radius: 15px;
 }
 
 /* page2 == contact*/
